@@ -1,0 +1,10 @@
+package com.hospital.entities;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+public class BaseEntity {
+	private Long id;
+	private LocalDate createdOn;
+	private LocalDateTime uodatedOn;
+}
