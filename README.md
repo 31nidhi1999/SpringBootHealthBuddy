@@ -1,2 +1,1 @@
-# SpringProject
 # SpringBootHealthBuddy
